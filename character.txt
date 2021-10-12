@@ -1,0 +1,3 @@
+name=XiheLaw_CVVC_V3
+image=image.bmp
+author=E.M.
