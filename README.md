@@ -1,4 +1,9 @@
 # Xihelv-Chinese-CVVC
+[Github](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC) | 
+[Gitlab](https://gitlab.com/oxygen-dioxide/Xihelv-Chinese-CVVC) | 
+[Bitbucket](https://bitbucket.org/oxygendioxide/xihelv-chinese-cvvc) | 
+[Coding](https://oxygen-dioxide.coding.net/public/1/Xihelv-Chinese-CVVC/git/files)
+
 曦和律中文三音阶CVVC音源（镜像站）
 
 ## 技术规格
