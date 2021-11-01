@@ -6,6 +6,11 @@
 
 曦和律中文三音阶CVVC音源（镜像站）
 
+## [使用规约](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC/blob/main/license.md)
+
+## 下载
+[从Github下载](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC/archive/refs/heads/main.zip)
+
 ## 技术规格
 - 三音阶（C#4、F4、A4）
 - 使用松尾8字中文CVVC录音表
