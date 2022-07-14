@@ -1,0 +1,7 @@
+﻿name: 曦和律中文CVVC
+author: kohane君
+voice: kohane君
+web: https://space.bilibili.com/398639321
+text_file_encoding: shift_jis
+portrait_opacity: 0.67000001668930054
+default_phonemizer: OpenUtau.Plugin.Builtin.ChineseCVVCPhonemizer
